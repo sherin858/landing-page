@@ -112,3 +112,4 @@ function active(link){
 })
 document.querySelector(link.getAttribute('href')).className="your-active-class";
 }
+//endd
